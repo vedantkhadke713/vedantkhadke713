@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a fourth-year student at Yeshwantrao Chavan College of Engineering (YCCE). When I'm not hitting the books, you can find me playing chess or badminton. 
+I'm a final-year student at Yeshwantrao Chavan College of Engineering (YCCE). When I'm not hitting the books, you can find me playing chess or badminton. 
 
 ## Skills
 
