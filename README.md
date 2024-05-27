@@ -20,7 +20,7 @@ Currently, I don't have any ongoing projects, but I'm eager to start working on 
 
 ## Achievements
 
-- **Certification:** C Programming
+- **Certification:** C Programming ,Java Programming 
 
 ## Contact Me
 
