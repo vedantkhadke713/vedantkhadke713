@@ -9,6 +9,7 @@ I'm a final-year student at Yeshwantrao Chavan College of Engineering (YCCE). Wh
 - **Programming Languages:** 
   - Intermediate knowledge of C and Java
 - **Data Structures and Algorithms (DSA)**
+- **Lerning Machine Developer
 
 ## Education
 
