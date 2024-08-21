@@ -1,4 +1,4 @@
-# Hi there, I'm Vedant Khadke! 👋
+Hi there, I'm Vedant Khadke! 👋
 
 ## About Me
 
